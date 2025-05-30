@@ -1,0 +1,4 @@
+.body{
+    backround: linear-gradient(to right, blue, grey, black);
+    margin: auto;
+}
