@@ -1,4 +1,10 @@
 .body{
-    backround: linear-gradient(to right, blue, grey, black);
+    background: linear-gradient(to right, blue, grey, black);
     margin: auto;
+    flex: auto;
+    flex-direction: column;
+}
+.h1{
+    text-align: center;
+    color:rgb(from color r g b);
 }
