@@ -1,3 +1,10 @@
 .body{
 background: solid red;
 }
+.head{
+    text-emphasis: none;
+}
+*img{
+    margin-inline-start: 0%;
+    
+}
